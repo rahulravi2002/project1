@@ -1,0 +1,87 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&family=Cairo+Play:wght@300&family=Foldit:wght@900&family=Nabla&display=swap');
+
+
+body{
+   background-image: url("./image/mmm.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+
+.c{
+    height: 500px;
+    width: 30%;
+    float: left;
+    border: rgba(252, 9, 9, 0) 20px solid;
+    border-radius: 35px;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+.n{
+    font-family: 'Aref Ruqaa Ink', serif;
+    text-align: center;
+    color: white;
+    margin-top: -46px;
+}
+.d{
+   
+    text-align:center;
+    color: white;
+}
+
+img{
+    height: 200px;
+    padding: 50px;
+}
+.a1{
+    text-align: center;
+    
+}
+.hh{
+    
+    /* text-align: center; */
+    color: #fbfbfa;
+    font-family: 'Nabla', cursive;
+    
+    
+    
+   
+}
+.a2{
+    text-align: center;
+
+}
+.a3{
+    text-align: center;
+
+}
+.a4{
+    text-align: center;
+
+}
+.a5{
+    text-align: center;
+
+}
+.a6{
+    text-align: center;
+
+}
+button{
+    border-radius: 20px;
+    height: 45px;
+    color: white;
+    background-color: black;
+}
+button:hover{
+    color: black;
+    background-color:white;
+}
+.c:hover{
+    color: black;
+    background-color: rgba(0, 0, 0, 0.513);
+}
+
+
